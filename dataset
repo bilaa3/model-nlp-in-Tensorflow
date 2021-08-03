@@ -1,0 +1,5 @@
+The dataset I'm using is taken from Kaggle. You can download on the link
+https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+
+
+i use Bidirectional LSTM to increase val_accuracy to 90%
